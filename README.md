@@ -150,5 +150,5 @@ While the current iteration of CargoERP provides a robust foundational architect
 8.  Lee, J., Kao, H. A., & Yang, S. (2014). Service innovation and smart analytics for industry 4.0 and big data environment. *Procedia Cirp*, 16, 3-8. (Reference for Predictive Maintenance and AI in industrial routing).
 
 
-## Made by Abhineet Raj
+## Made by Afreen Mohasin
 *   [Afreen Mohasin](https://github.com/AfreenMohasin)
