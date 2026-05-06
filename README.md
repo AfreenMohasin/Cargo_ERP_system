@@ -151,4 +151,4 @@ While the current iteration of CargoERP provides a robust foundational architect
 
 
 ## Made by Abhineet Raj
-*   [Abhineet Raj](https://github.com/abhineetraj1)
+*   [Afreen Mohasin](https://github.com/AfreenMohasin)
